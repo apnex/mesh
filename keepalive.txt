@@ -1,0 +1,5 @@
+## keepalive notes
+https://connectreport.com/blog/tuning-http-keep-alive-in-node-js/
+
+## some comments on http.Agent
+https://stackoverflow.com/questions/37471335/node-js-relationship-among-http-server-http-agent-sockets-and-http-request

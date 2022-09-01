@@ -1,0 +1,13 @@
+{
+	"name": "kydemo",
+	"version": "1.0.0",
+	"type": "module",
+	"private": true,
+	"dependencies": {
+		"default-gateway": "^6.0.2",
+		"node-netstat": "*",
+		"agentkeepalive": "*",
+		"express": "*",
+		"got": "*"
+	}
+}
